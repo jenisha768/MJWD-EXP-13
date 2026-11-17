@@ -1,5 +1,8 @@
 # Experiment 13 – Promise-Based Asynchronous Operation in React
 
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010  
+
 ## Aim
 To simulate an asynchronous operation in React using JavaScript Promises and handle fulfilled and rejected states.
 
